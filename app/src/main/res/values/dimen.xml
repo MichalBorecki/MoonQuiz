@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="paddingBottom">15dp</dimen>
+    <dimen name="paddingResultBottom">10dp</dimen>
+    <dimen name="paddingForQuestions">10dp</dimen>
+    <dimen name="paddingLeftOfRadioButtons">16dp</dimen>
+    <dimen name="padding_quiz_name">8dp</dimen>
+    <dimen name="paddingCheckBox">3dp</dimen>
+    <dimen name="paddingWelcomeMoonImage">10dp</dimen>
+    <dimen name="paddingStartButton">50dp</dimen>
+    <dimen name="marginBottom">15dp</dimen>
+    <dimen name="paddingLeftAnswer04">24dp</dimen>
+    <dimen name="paddingTop">15dp</dimen>
+    <dimen name="paddingImage">10dp</dimen>
+</resources>

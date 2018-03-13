@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="no_name_toast">Please enter your Name</string>
+    <string name="question_01">1. How far is the Moon from Earth? </string>
+    <string name="question_02">2. How long does it take the Moon to complete it\'s cycle?</string>
+    <string name="question_03">3. When Apollo 11 placed the first humans on the Moon ?</string>
+    <string name="question_04">4. What is the short name of the US agency responsible for the national space flight program?</string>
+    <string name="question_05">5. Choose two true statements</string>
+    <string name="q01_a01">80,857 kilometers</string>
+    <string name="q01_a02">222,328 kilometers</string>
+    <string name="q01_a03">384,400 kilometers</string>
+    <string name="q01_a04">448,225 kilometers</string>
+    <string name="q02_a01">exactly 1 week</string>
+    <string name="q02_a02">about 2 weeks</string>
+    <string name="q02_a03">about 1 month</string>
+    <string name="q02_a04">1 year</string>
+    <string name="q03_a01">July 24, 1969</string>
+    <string name="q03_a02">June 01, 1959</string>
+    <string name="q03_a03">October 11, 1972</string>
+    <string name="q03_a04">January 13, 1980</string>
+    <string name="q04_hint">Write your answer here</string>
+    <string name="q05_a01">Elon Musk bought the Moon</string>
+    <string name="q05_a02">The Moon shines because it reflects the light coming from Sun</string>
+    <string name="q05_a03">There is a space base on the Moon</string>
+    <string name="q05_a04">Only one side of the Moon is visible from the Earth</string>
+    <string name="result">Show result</string>
+    <string name="share_result_button">Share result</string>
+    <string name="quiz_name">MOON QUIZ</string>
+    <string name="quit_button">Quit</string>
+    <string name="play_again_button">Play again</string>
+    <string name="toast_question_05">You have to check two answers in question 5</string>
+    <string name="username_hint">Please enter your name</string>
+    <string name="start_button">Start</string>
+</resources>

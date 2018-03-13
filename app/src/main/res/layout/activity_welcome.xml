@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical"
+    android:theme="@style/AppTheme"
+    tools:context="com.example.android.quiz.WelcomeActivity">
+
+    <TextView
+        style="@style/appNameWelcomeStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="@string/quiz_name"
+        android:textAppearance="@style/textStyle" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3"
+        android:background="@color/color"
+        android:padding="@dimen/paddingWelcomeMoonImage"
+        android:scaleType="centerInside"
+        android:src="@drawable/moon" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/user_name"
+            style="@style/editWelcomeTextStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/marginBottom"
+            android:hint="@string/username_hint"
+            android:imeOptions="actionSend"
+            android:inputType="textPersonName|textCapWords"
+            android:padding="@dimen/padding_quiz_name"
+            android:selectAllOnFocus="false"
+            android:textAlignment="center"
+            android:textAppearance="@style/textStyle"
+            android:textColorHint="@color/color" />
+
+        <Button
+            android:id="@+id/startQuiz"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="@dimen/paddingStartButton"
+            android:paddingRight="@dimen/paddingStartButton"
+            android:text="@string/start_button"
+            android:textAppearance="@style/textStyle" />
+    </LinearLayout>
+</LinearLayout>

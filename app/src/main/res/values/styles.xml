@@ -1,0 +1,65 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:typeface">serif</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/color</item>
+    </style>
+
+    <!-- Style for app name-->
+    <style name="appNameWelcomeStyle">
+        <item name="android:textColor">@color/color</item>
+        <item name="android:textSize">32sp</item>
+    </style>
+
+    <!-- Style for app name-->
+    <style name="appNameStyle">
+        <item name="android:textColor">@color/color</item>
+        <item name="android:textSize">23sp</item>
+    </style>
+
+    <!-- Style for text -->
+    <style name="textStyle">
+        <item name="android:typeface">serif</item>
+    </style>
+
+    <!-- Style for text of question-->
+    <style name="questionsStyle">
+        <item name="android:textColor">@color/color</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <!-- Style for radio buttons -->
+    <style name="radioButtonStyle">
+        <item name="android:textSize">17sp</item>
+        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="android:tint">#ffffff</item>
+    </style>
+
+    <!-- Style for check boxes  -->
+    <style name="checkBoxesStyle">
+        <item name="android:textSize">17sp</item>
+        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="buttonTint">#ffffff</item>
+    </style>
+
+    <!-- Style for question edit text -->
+    <style name="editTextStyle">
+        <item name="android:textSize">17sp</item>
+        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="buttonTint">#ffffff</item>
+    </style>
+
+    <!-- Style for welcome layout edit text -->
+    <style name="editWelcomeTextStyle">
+        <item name="android:textSize">17sp</item>
+        <item name="android:textColor">@color/color</item>
+        <item name="buttonTint">#ffffff</item>
+    </style>
+</resources>
