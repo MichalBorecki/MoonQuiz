@@ -13,7 +13,7 @@ View for Landscape Mode:<br>
 # Video
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=GjROjboQ2lg
 " target="_blank"><img src="https://i.imgur.com/WB1PlIj.png" 
-alt="youtube-video-moon-quiz-app" width="240" height="180" border="10" /></a>
+alt="youtube-video-moon-quiz-app" width="560" height="315" border="10" /></a>
 
 # APK File 
 To download the APK File for this Application : <b><a href="https://drive.google.com/open?id=10i9COmlw-LqQC_kte6xx8tQv6cxdX7LL">CLICK HERE</a></b>
