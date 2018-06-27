@@ -18,7 +18,7 @@
         android:text="@string/quiz_name"
         android:textAppearance="@style/textStyle" />
 
-    <!--Moon imege-->
+    <!--Moon image-->
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="150dp"
@@ -38,7 +38,7 @@
             android:orientation="vertical"
             android:textAppearance="@style/radioButtonStyle">
 
-            <!--Quetion no. 1-->
+            <!--Question no. 1-->
             <TextView
                 android:id="@+id/q_01"
                 style="@style/questionsStyle"
@@ -92,7 +92,7 @@
                     android:text="@string/q01_a04" />
             </RadioGroup>
 
-            <!--Quetion no. 2-->
+            <!--Question no. 2-->
             <TextView
                 android:id="@+id/question_02"
                 style="@style/questionsStyle"
@@ -147,7 +147,7 @@
                     android:text="@string/q02_a04" />
             </RadioGroup>
 
-            <!--Quetion no. 3-->
+            <!--Question no. 3-->
             <TextView
                 android:id="@+id/question_03"
                 style="@style/questionsStyle"
@@ -201,7 +201,7 @@
                     android:text="@string/q03_a04" />
             </RadioGroup>
 
-            <!--Quetion no. 4-->
+            <!--Question no. 4-->
             <TextView
                 android:id="@+id/question_04"
                 style="@style/questionsStyle"
@@ -227,7 +227,7 @@
                 android:textAppearance="@style/textStyle"
                 android:textColorHint="@color/colorPrimary" />
 
-            <!--Quetion no. 5-->
+            <!--Question no. 5-->
             <TextView
                 android:id="@+id/question_05"
                 style="@style/questionsStyle"
